@@ -1,0 +1,17 @@
+name: widgets-tutorial
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - notebook
+  - numpy
+  - scikit-image
+  - scipy
+  - pandas
+  - requests
+  - ipywidgets
+  - bqplot
+  - nodejs=13
+  - jupyter_nbextensions_configurator
+  - jupyter_contrib_nbextensions
