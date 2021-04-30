@@ -13,4 +13,3 @@ dependencies:
   - ipywidgets
   - bqplot
   - nodejs=13
-  - yfinance
